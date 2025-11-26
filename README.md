@@ -12,7 +12,7 @@ Este repositório contém os materiais práticos da Aula 2 do curso de Introduç
 - `modulo1aula2_script_2.R` - Segundo script da aula introduzindo manipulação de dados em R
 - `modulo1aula2_atividades.R` - Atividades práticas para fixação do conteúdo e conceitos adicionais
 
-### DOCUMENTOS
+### ATIVIDADES
 
 - `modulo1aula2_atividades.pdf` - Descrição das atividades propostas 
 - `modulo1aula2_gabarito_atividade.pdf` - Gabarito das atividades práticas
